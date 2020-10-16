@@ -72,6 +72,13 @@
     },
     "shared-styles": {
       "tags": ["scope:shared", "type:styles"]
+    },
+    "plugins-example": {
+      "tags": []
+    },
+    "plugins-example-e2e": {
+      "tags": [],
+      "implicitDependencies": ["plugins-example"]
     }
   },
   "affected": {
